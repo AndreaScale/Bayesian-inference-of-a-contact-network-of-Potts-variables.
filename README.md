@@ -1,2 +1,2 @@
 # Project
- Progetto per Models&Algorithm
+Written by Lucia Pezzetti, Lorenzo Calvetti, Andrea Scalenghe and Jacopo Tarantino.
